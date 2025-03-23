@@ -12,7 +12,7 @@ Technologies UsedHTML
 CSS
 Google Fonts (Montserrat)
 How to RunClone this repository:
-git clone https://github.com/yourusername/google-clone.gitOpen index.html in a browser.
+git clone https://github.com/unaidabd/google-clone.gitOpen index.html in a browser.
 Folder Structure/google-clone
 │── index.html
 │── stylee.css
